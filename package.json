@@ -1,7 +1,7 @@
 {
-  "name": "tenpay",
-  "version": "2.1.9",
-  "description": "微信支付 for nodejs",
+  "name": "dmwxpay",
+  "version": "1.0.0",
+  "description": "base is node-tenpay",
   "main": "./lib",
   "scripts": {
     "test": "mocha",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/befinal/node-tenpay.git"
+    "url": "git+https://github.com/windsoul85/node-tenpay.git"
   },
   "engines": {
     "node": ">= 8.3.0"
@@ -24,10 +24,6 @@
   ],
   "author": "Eric",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/befinal/node-tenpay/issues"
-  },
-  "homepage": "https://github.com/befinal/node-tenpay#readme",
   "dependencies": {
     "urllib": "^2.29.1",
     "xml2js": "^0.4.19"
