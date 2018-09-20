@@ -1,6 +1,6 @@
 {
   "name": "dmwxpay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "base is node-tenpay",
   "main": "./lib",
   "scripts": {
