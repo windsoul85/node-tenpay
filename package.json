@@ -28,6 +28,10 @@
     "urllib": "^2.29.1",
     "xml2js": "^0.4.19"
   },
+  "bugs": {
+    "url": "https://github.com/windsoul85/node-tenpay/issues"
+  },
+  "homepage": "https://github.com/windsoul85/node-tenpay#readme",
   "devDependencies": {
     "mocha": "^4.1.0"
   }
